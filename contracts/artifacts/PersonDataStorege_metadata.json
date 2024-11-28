@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/PersonDataStorege.sol": "PersonDataStorege"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/PersonDataStorege.sol": {
+			"keccak256": "0x0d8edaef863c7e742bda9761ee6e6a495eabeb6c85918ffb29a4e761795dc276",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://54f29bb63d6b95bc6f91abd19f3e1644bb4e3bbbf76383eb62de414c93c0ce72",
+				"dweb:/ipfs/QmY3ST9wFHXUahKiD19AjEpAbXwFFcUr5tfKjuwmkAosCi"
+			]
+		}
+	},
+	"version": 1
+}
